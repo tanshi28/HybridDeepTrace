@@ -1,0 +1,8 @@
+Metric,Value
+Test Accuracy,0.8878
+FAKE Precision,0.8806
+FAKE Recall,0.8973
+FAKE F1-score,0.8889
+REAL Precision,0.8953
+REAL Recall,0.8783
+REAL F1-score,0.8867

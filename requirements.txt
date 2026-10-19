@@ -1,0 +1,20 @@
+# Hybrid DeepTrace dependencies
+# Recommended: Python 3.10 or 3.11
+
+streamlit>=1.35,<2.0
+
+# Deep-learning inference
+torch>=2.2
+torchvision>=0.17
+
+# Image processing and numerical operations
+numpy>=1.26,<3.0
+Pillow>=10.0
+matplotlib>=3.8
+scipy>=1.12
+scikit-image>=0.22
+
+# Traditional machine-learning models
+scikit-learn>=1.4
+xgboost>=2.0
+joblib>=1.3
